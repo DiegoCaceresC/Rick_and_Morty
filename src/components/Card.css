@@ -1,0 +1,9 @@
+.card {
+    border: 2px solid rgba(67, 164, 177, 0.796);
+    width: 22%;
+    align-items: center;
+    text-align: center;
+  }
+img{
+    width: 100%;
+}
